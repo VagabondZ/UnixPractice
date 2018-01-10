@@ -6,7 +6,7 @@
 int
 main(int argc, char *argv[])
 {
-	int				fd;
+	int			fd;
 	pid_t			pid;
 	char			buf[5];
 	struct stat		statbuf;
